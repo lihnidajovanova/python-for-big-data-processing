@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48efde2b-3171-4c44-b952-d2233dc4201d" name="Changes" comment="" />
+    <list default="true" id="48efde2b-3171-4c44-b952-d2233dc4201d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercises/4. data preparation for processing - exercises.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/auto-mpg.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/exams.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/imports-85.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/titanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/winequality-white.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6. python for natural language processing/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6. python for natural language processing/parallel/lemmatizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6. python for natural language processing/wfl-mk.exc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6. python for natural language processing/wfl-mk.tbl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures/6. python for natural language processing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709251815281</updated>
       <workItem from="1709251830878" duration="1107000" />
-      <workItem from="1709257456469" duration="6836000" />
+      <workItem from="1709257456469" duration="11940000" />
     </task>
     <servers />
   </component>
