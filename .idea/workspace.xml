@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48efde2b-3171-4c44-b952-d2233dc4201d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/1. python environment and basics - exercises.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/2. working with homogeneous data structures - exercises.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lectures/2. working with homogeneous data structures.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/3-1. working with heterogeneous data structures - exercises.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/3-2. working with heterogeneous data structures - exercises.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures/3. working with heterogeneous data structures.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/1. python_environment_and_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/1. python environment and basics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -100,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709251815281</updated>
       <workItem from="1709251830878" duration="1107000" />
-      <workItem from="1709257456469" duration="2250000" />
+      <workItem from="1709257456469" duration="6343000" />
     </task>
     <servers />
   </component>
