@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48efde2b-3171-4c44-b952-d2233dc4201d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/4. data preparation for processing - exercises.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/auto-mpg.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/exams.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/imports-85.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/titanic.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models - data/winequality-white.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/5. python for basic machine learning models.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6. python for natural language processing/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6. python for natural language processing/parallel/lemmatizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6. python for natural language processing/wfl-mk.exc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6. python for natural language processing/wfl-mk.tbl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lectures/6. python for natural language processing.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +39,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -109,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709251815281</updated>
       <workItem from="1709251830878" duration="1107000" />
-      <workItem from="1709257456469" duration="11940000" />
+      <workItem from="1709257456469" duration="15425000" />
     </task>
     <servers />
   </component>
@@ -118,5 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_for_big_data_processing$main.coverage" NAME="main Coverage Results" MODIFIED="1709279151888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
